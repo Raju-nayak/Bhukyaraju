@@ -1,1 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>EDUTECH SOLUTIONS</title> 
+<link rel="stylesheet" type="text/css" href="new 1.css">
+</head>
+<body>
+    <header>
+        <hgroup>
+        <h1 style="border:3px solid blue";>EDUTECH SOLUTIONS</h1>
+        <p>The school of excellence from 1st to 10th standards</p>
+        </hgroup>
+    </header>
+	<section>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</section>
+<div>
+<h2>SELECT YOUR STATE BOARD</h2>
+<ul>
+<li><a href="1st to 10th class">Board of Telangana state</a></li>
+<li><a href="1st to 10th class">Board of AP state</a></li>
+<li><a href="1st to 10th class">Board of Haryana state</a></li>
+<li><a href="1st to 10th class">Board of Bihar state</a></li>
+<li><a href="1st to 10th class">Board of UP state</a></li>
+<li><a href="1st to 10th class">Board of jammu kashmir</a></li>
+<li><a href="1st to 10th class">Board of Maharastra</a></li>
+<li><a href="1st to 10th class">Board of karnataka</a></li>
+<li><a href="1st to 10th class">Board of Tamilnadu</a></li>
+<li><a href="1st to 10th class">Board of Madyapradesh</a></li>
+<li><a href="1st to 10th class">Board of West bengal</a></li>
+<li><a href="1st to 10th class">Board of Himachal pradesh</a></li>
+<li><a href="1st to 10th class">Board of Rajastan</a></li>
+<li><a href="1st to 10th class">Board of Jarkhand</a></li>
+<li><a href="1st to 10th class">Board of Delhi</a></li>
+<li><a href="1st to 10th class">Board of Kerala</a></li>
+<li><a href="1st to 10th class">Board of Gujarath</a></li>
+<li><a href="1st to 10th class">Board of Assam</a></li>
+<li><a href="1st to 10th class">Board of Odisha</a></li>
+<li><a href="1st to 10th class">Board of gova</a></li>
+<li><a href="1st to 10th class">Board of uttarakand</a></li>
+<li><a href="1st to 10th class">Board of manipure</a></li>
+<li><a href="1st to 10th class">Board of nagaland</a></li>
+<li><a href="1st to 10th class">Board of Arunachal pradesh</a></li>
+</ul>
+</div>	
+<h3>SELECT YOUR CLASS</h3>
+<ol>
+   <li><button id="modalBtn" class="button">1st class</button></li>
+   <li><button id="modalBtn" class="button">2nd class</button></li>
+   <li><button id="modalBtn" class="button">3rd class</button></li>
+   <li><button id="modalBtn" class="button">4th class</button></li>
+   <li><button id="modalBtn" class="button">5th class</button></li>
+   <li><button id="modalBtn" class="button">6th class</button></li>
+   <li><button id="modalBtn" class="button">7th class</button></li>
+   <li><button id="modalBtn" class="button">8th class</button></li>
+   <li><button id="modalBtn" class="button">9th class</button></li>
+   <li><button id="modalBtn" class="button">10th class</button></li>
+</ol>
+</body>
+</html>
 
